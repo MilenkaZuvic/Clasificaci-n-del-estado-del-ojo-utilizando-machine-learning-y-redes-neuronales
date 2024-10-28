@@ -21,7 +21,7 @@ El objetivo es identificar el modelo que mejor clasifique el estado del ojo en b
 ## Requisitos
 
 * Python 3x
-* Bibliotecas: `pandas`, `numpy`, `matplotlib, `seaborn`, `scikit-learn`, `tensorflow`, `keras`.
+* Bibliotecas: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `tensorflow`, `keras`.
 
 ## Autores
 
