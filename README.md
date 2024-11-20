@@ -6,7 +6,7 @@ Este Proyecto se centra en la clasificación del estado de los ojos (abiertos o 
 
 ## Descripción del proyecto
 
-El objetivo es identificar el estado del ojo basado en las señales eléctricas del EEG. En este proyecto, desarrolado como parte de los requisitos para el Diplomado en Data Science de la Pontificia Universidad Católica de Chile se implementan y comparan los siguientes algoritmnos de clasificación:
+El objetivo es identificar el estado del ojo basado en las señales eléctricas del EEG. En este proyecto, desarrolado como parte de los requisitos para el Diplomado en Data Science de la Pontificia Universidad Católica de Chile se implementan y comparan los siguientes algoritmos de clasificación:
 
 * **Regresión Logística**
 * **Árbol de Decisión**
